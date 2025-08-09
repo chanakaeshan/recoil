@@ -1,6 +1,6 @@
-# Recoil
+# No Recoil
 
-Welcome to the **Recoil** repository! This project is maintained by [@chanakaeshan](https://github.com/chanakaeshan).
+Welcome to the **No Recoil** repository! This project is maintained by [@chanakaeshan](https://github.com/chanakaeshan).
 
 ## Overview
 
@@ -9,7 +9,7 @@ _Recoil_ is a project designed to provide state management solutions for modern 
 ## Features
 
 - **Simple State Management:** Easily manage both global and local state without prop drilling.
-- **Performance:** Optimized for fast updates and minimal re-renders.
+- **Performance:** Optimised for fast updates and minimal re-renders.
 - **Flexible API:** Supports atoms, selectors, and other advanced patterns.
 - **Developer Friendly:** Designed for ease-of-use and productivity.
 
@@ -51,7 +51,7 @@ function Counter() {
 
 ## Documentation
 
-For detailed documentation, usage examples, and API references, please refer to the [official documentation](https://github.com/chanakaeshan/recoil/wiki).
+For detailed documentation, usage examples, and API references, please take a look at the [official documentation](https://github.com/chanakaeshan/recoil/wiki).
 
 ## Contributing
 
@@ -61,6 +61,8 @@ Contributions are welcome! Please open issues or pull requests to help improve t
 2. Create a feature branch
 3. Commit your changes
 4. Open a pull request
+
+
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
